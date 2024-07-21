@@ -6,4 +6,26 @@ body {
 form {
     background-color: white;
     border-radius: 10px;
+    height: 620px;
+    overflow: auto;
+}
+
+img {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first-bloc, .second-bloc {
+    width: 35%;
+}
+
+p {
+    font-weight: bold;
+    color: rgb(71, 71, 71);
 }
