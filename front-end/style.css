@@ -1,0 +1,9 @@
+body {
+    margin: 10px;
+    background-color: rgb(226, 226, 226);
+}
+
+form {
+    background-color: white;
+    border-radius: 10px;
+}
