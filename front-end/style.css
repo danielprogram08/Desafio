@@ -29,3 +29,8 @@ p {
     font-weight: bold;
     color: rgb(71, 71, 71);
 }
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
