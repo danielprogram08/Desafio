@@ -1,12 +1,11 @@
 body {
-    margin: 10px;
     background-color: rgb(226, 226, 226);
 }
 
 form {
     background-color: white;
     border-radius: 10px;
-    height: 620px;
+    height: 100vh;
     overflow: auto;
 }
 
