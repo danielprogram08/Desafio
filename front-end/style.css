@@ -34,3 +34,12 @@ p {
     display: flex;
     justify-content: space-around;
 }
+
+#search {
+    background-color: rgb(43, 43, 43);
+    border-color: gray;
+}
+
+#search:hover {
+    background-color: gray;
+}
