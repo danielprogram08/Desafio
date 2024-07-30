@@ -1,0 +1,12 @@
+version: '8.0'
+
+services:
+
+  db:
+    image: mysql
+    container_name: mysql-container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+    volumes:
+      - ./db/:/var/lib/mysql 
